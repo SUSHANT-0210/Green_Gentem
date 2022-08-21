@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47729241769",
+    "project_id": "practice-33aa3",
+    "storage_bucket": "practice-33aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47729241769:android:839b481a7681b94ff143b8",
+        "android_client_info": {
+          "package_name": "com.sushantninja.greengentem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47729241769-ke6827j6693ublltr0c3e74gs497a7h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDR-iQC6mFdEu4g1THWvDBcNz2Od6djc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47729241769-ke6827j6693ublltr0c3e74gs497a7h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
